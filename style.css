@@ -1,0 +1,37 @@
+body{
+  background-image: url("http://exoticvoyage.com/wp-content/uploads/2015/04/surfing1.jpg");
+  background-size: 100%;
+  background-color: aliceblue;
+  color: red;
+  font-family: "Didot", sans-serif;
+  padding: 50px 50px 50px 50px;
+}
+
+h1{
+  font-size: 48px;
+  font-family: "Papyrus", fantasy;
+}
+
+h2{
+  font-family: "Papyrus", fantasy;
+}
+
+#navbar ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#navbar li{
+  display: inline;
+}
+
+#navbar a {
+  margin-left: 75px;
+  margin-right: 75px;
+}
+
+img{
+  width: 200px;
+  float: right;
+}
